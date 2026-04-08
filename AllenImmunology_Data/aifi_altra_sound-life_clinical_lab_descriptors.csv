@@ -1,0 +1,70 @@
+results_group,column_name,full_name,units,normal_range
+Sample Identifiers,subject.subjectID,A Globally Unique Identifier (GUID) of the Cohort the subject enrolled in for our study (BR1 = Young Adult; BR2 = Older Adult),,
+Sample Identifiers,sample.sampleKitGuid,Sample Kit ID,,
+Subject Metadata,subject.diseaseGroup,Disease Group,,
+Subject Metadata,subject.progressionGroup,Progression Group,,
+Subject Metadata,subject.diagnosisAge,Age of Subject at Diagnosis (if applicable),,
+Subject Metadata,subject.diagnosisBMI,BMI of Subject at Diagnosis (if applicable),,
+Subject Metadata,subject.biologicalSex,Biological Sex,,
+Sample Metadata,sample.subjectAgeAtDraw,Age of Subject at time of Sample Collection,,
+Sample Metadata,sample.daysSinceFirstVisit,Days between first sample collection and collection of this sample,,
+Sample Metadata,sample.daysToDiagnosis,Days between collection of this sample and RA diagnosis (if applicable),,
+Anthropomorphic Measures,am.bmi,Body Mass Index (BMI),,
+Anthropomorphic Measures,am.height,Height,cm,
+Anthropomorphic Measures,am.weight,Weight,kg,
+Blood Chemistry,chem.alt,Alanine Transaminase (ALT),Units per L,7 - 52
+Blood Chemistry,chem.albumin,Albumin,g per dL,3.5 - 5.7
+Blood Chemistry,chem.alkaline_phosphatase,Alkaline Phosphatase,Units per L,39 - 117
+Blood Chemistry,chem.ast,Aspartate Aminotransferase (AST),Units per L,12 - 39
+Blood Chemistry,chem.t_bili,"Bilirubin, Total (T-Bili)",mg per dL,0.1 - 1.3
+Blood Chemistry,chem.bun,Blood Urea Nitrogen (BUN),mg per dL,7 - 25
+Blood Chemistry,chem.calcium,Calcium,mg per dL,8.6 - 10.3
+Blood Chemistry,chem.co2,Carbon Dioxide (CO2),mmol per L,21 - 31
+Blood Chemistry,chem.cl,Chloride (Cl),mmol per L,98 - 108
+Blood Chemistry,chem.creatinine,Creatinine,mg per dL,0.7 - 1.3
+Blood Chemistry,chem.egfr_aa,Estimated Glomerular Filtration Rate (eGFR) - African American,ml per min per 1.73 m2,< 60
+Blood Chemistry,chem.egfr_non_aa,Estimated Glomerular Filtration Rate (eGFR) - Non-African American,ml per min per 1.73 m2,< 60
+Blood Chemistry,chem.globin,Globin,g per dL,2 - 3.5
+Blood Chemistry,chem.glucose,Glucose,mg per dL,70 - 199
+Blood Chemistry,chem.ldh,Lactate Dehydrogenase,Units, 0 - 210
+Blood Chemistry,chem.magnesium,Magnesium,mg per dL,1.8 - 2.4
+Blood Chemistry,chem.phosphate,Phosphate,mg per dL,2.5 - 4.5
+Blood Chemistry,chem.potassium,Potassium,mmol per L,3.5 - 5.1
+Blood Chemistry,chem.protein,"Protein, Total",g per dL,6.4 - 8.9
+Blood Chemistry,chem.sodium,Sodium,mmol per L,133 - 145
+Blood Counts,bc.perc_basophils,% Basophils,percent,
+Blood Counts,bc.perc_eosinophils,% Eosinophils,percent,
+Blood Counts,bc.perc_lymphocytes,% Lymphocytes,percent,
+Blood Counts,bc.perc_monocytes,% Monocytes,percent,
+Blood Counts,bc.perc_neutrophils,% Neutrophils,percent,
+Blood Counts,bc.basophil_count,Absolute Basophil Count,count per uL,0 - 202
+Blood Counts,bc.eosinophil_count,Absolute Eosinophil Count (AEC),count per uL,0 - 400
+Blood Counts,bc.lymphocyte_count,Absolute Lymphocyte Count (ALC),count per uL,1000 - 4800
+Blood Counts,bc.monocyte_count,Absolute Monocyte Count (AMC),count per uL,200 - 900
+Blood Counts,bc.neutrophil_count,Absolute Neutrophil Count (ANC),count per uL,1800 - 6600
+Blood Counts,bc.hematocrit,Hematocrit,percent,39.2 - 50.2
+Blood Counts,bc.hemoglobin,Hemoglobin,g per dL,12.1 - 18.1
+Blood Counts,bc.mch,Mean Corpuscular Hemoglobin (MCH),pg,27.5 - 35.1
+Blood Counts,bc.mchc,Mean Corpuscular Hemoglobin Concentration (MCHC),g per dL,32 - 36
+Blood Counts,bc.mcv,Mean Corpuscular Volume (MCV),fL,80 - 100
+Blood Counts,bc.mpv,Mean Platelet Volume (MPV),fL,7.2 - 11.7
+Blood Counts,bc.platelet_count,Platelet Count,thousand count per uL,150 - 400
+Blood Counts,bc.red_blood_cell_count,Red Blood Cell Count,million count per uL,4.18 - 6.09
+Blood Counts,bc.rdw,Red Cell Distribution Width (RDW),percent,11.7 - 14.2
+Blood Counts,bc.wbc,White Blood Cell Count (WBC),thousand count per uL,4 - 11.1
+HCMV Serology,cmv.igg_serology,CMV IgG Serology Result (ELISA),,
+HCMV Serology,cmv.igg_serology_interpretation,CMV IgG Serology Result Interpretation,,
+Inflammatory Markers,infl.anti_ccp3,Anti-CCP3,,
+Inflammatory Markers,infl.anti_ccp31,Anti-CCP31,,
+Inflammatory Markers,infl.hs_crp,"C-Reactive Protein, High-Sensitivity (HS-CRP)",mg per L,0 - 0.3
+Inflammatory Markers,infl.rf_iga_interpretation,RFIgA Interpretation,,
+Inflammatory Markers,infl.rf_iga_result,RFIgA Result,,
+Inflammatory Markers,infl.rf_igm_interpretation,RFIgM Interpretation,,
+Inflammatory Markers,infl.rf_igm_result,RFIgM Result,,
+Inflammatory Markers,infl.esr,SED Rate-Westergren (ESR),,
+Lipid Profile,lip.cholesterol_hdl,"Cholesterol, HDL",mg per dL,40 - 59
+Lipid Profile,lip.cholesterol_ldl,"Cholesterol, LDL",mg per dL,57 - 129
+Lipid Profile,lip.cholesterol_non_hdl,"Cholesterol, Non-HDL",mg per dL,0 - 189
+Lipid Profile,lip.cholesterol_total,"Cholesterol, Total",mg per dL,136 - 239
+Lipid Profile,lip.chlesterol_hdl_ratio,Cholesterol/HDL Ratio,ratio,
+Lipid Profile,lip.triglycerides,Triglycerides,mg per dL,alt
